@@ -1,0 +1,11 @@
+solucionreto1\Reto1\model\User.class
+solucionreto1\Reto1\model\Clone.class
+solucionreto1\Reto1\web\UserController.class
+solucionreto1\Reto1\repository\crud\CloneCrudRepository.class
+solucionreto1\Reto1\Reto1Application.class
+solucionreto1\Reto1\repository\UserRepository.class
+solucionreto1\Reto1\service\CloneService.class
+solucionreto1\Reto1\repository\crud\UserCrudRepository.class
+solucionreto1\Reto1\repository\CloneRepository.class
+solucionreto1\Reto1\web\CloneController.class
+solucionreto1\Reto1\service\UserService.class
